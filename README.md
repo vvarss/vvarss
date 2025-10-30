@@ -5,6 +5,8 @@
 
 
 -->
+![name](https://github.com/user-attachments/assets/d295a6e9-8167-40a6-9974-5660642e5cde)
+
 # 💫 About Me:
 🔭 I’m currently working on : Machine Learning, Image Processing , Redis, Front end <br>✨I have also worked with :  Data Visualisation , RPA <br>
 
