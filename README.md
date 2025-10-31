@@ -8,7 +8,7 @@
 ![name](https://github.com/user-attachments/assets/d295a6e9-8167-40a6-9974-5660642e5cde)
 
 # 💫 About Me:
-🔭 I’m currently working on : Machine Learning, Image Processing , Redis, Front end <br>✨I have also worked with :  Data Visualisation , RPA <br>
+🔭 I’m currently working on : Machine Learning, Image Processing , Redis <br>✨I have also worked with :  Data Visualisation , RPA , Front end <br>
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@shineacademy5593)
